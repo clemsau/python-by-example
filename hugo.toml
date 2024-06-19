@@ -1,4 +1,17 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Python by example'
 theme = "hugo-bearblog"
+
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[permalinks]
+  blog = "/:slug/"
+
+[params]
+    title = "Python by example"
+    description = "Learn Python by example"
+    hideMadeWithLine = true
