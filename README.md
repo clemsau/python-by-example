@@ -15,6 +15,10 @@ This project is built using the [hugo](https://gohugo.io/) static site generator
 - [ ] Add more examples
   - [ ] Hello world
   - [ ] Values
+  - [ ] Numbers
+  - [ ] Strings
+  - [ ] Formatting
+  - [ ] Booleans
   - [ ] Variables
   - [ ] Constants
   - [ ] Operators
@@ -22,8 +26,6 @@ This project is built using the [hugo](https://gohugo.io/) static site generator
   - [ ] While
   - [ ] If/Else
   - [ ] Switch
-  - [ ] Strings
-  - [ ] Formatting
   - [ ] Lists
   - [ ] Dictionaries
   - [ ] Functions

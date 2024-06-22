@@ -3,3 +3,7 @@ pages:
     url: "/hello-world"
   - title: "Values"
     url: "/values"
+  - title: "Numbers"
+    url: "/numbers"
+  - title: "Strings"
+    url: "/strings"
