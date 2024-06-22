@@ -1,5 +1,5 @@
 +++
-title = "hello-world"
+title = "Hello World"
 +++
 
 ## Hello world in Python

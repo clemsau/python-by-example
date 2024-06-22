@@ -7,5 +7,3 @@ Python is an open-source programming language known for its simplicity and reada
 This is a hands-on collection of bit-sized Python examples, meant to be a reference for beginners and experienced programmers.
 
 This project is inspired by the simplicity and clarity of [gobyexample.com](https://gobyexample.com).
-
-[Hello world](hello-world/)

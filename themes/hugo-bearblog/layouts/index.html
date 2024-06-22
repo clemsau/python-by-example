@@ -1,3 +1,6 @@
 {{ define "main" }}
 {{ .Content }}
+{{ range .Site.Data.pages.pages }}
+<a href="{{ .url }}">{{ .name }}</a>
+{{ end }}
 {{ end }}
