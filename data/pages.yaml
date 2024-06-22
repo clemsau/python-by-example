@@ -1,3 +1,5 @@
 pages:
-  - name: "Hello World"
+  - title: "Hello World"
     url: "/hello-world"
+  - title: "Values"
+    url: "/values"

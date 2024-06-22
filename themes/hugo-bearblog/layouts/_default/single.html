@@ -12,9 +12,21 @@
 <content>
   {{ .Content }}
 </content>
-<p>
-  {{ range (.GetTerms "tags") }}
-  <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
-  {{ end }}
-</p>
+{{ $pages := .Site.Data.pages.pages }}
+{{ $nextPage := "" }}
+
+{{ range $index, $element := $pages }}
+{{ if eq $element.title $.Title }}
+{{ $nextIndex := add $index 1 }}
+{{ if lt $nextIndex (len $pages) }}
+{{ $nextPage = index $pages $nextIndex }}
+{{ end }}
+{{ end }}
+{{ end }}
+
+{{ if $nextPage }}
+<div>
+  Next example: <a href="{{ $nextPage.url }}">{{ $nextPage.title }}</a>
+</div>
+{{ end }}
 {{ end }}
