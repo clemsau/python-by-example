@@ -7,3 +7,5 @@ pages:
     url: "/numbers"
   - title: "Strings"
     url: "/strings"
+  - title: "Formatting"
+    url: "/formatting"
