@@ -9,3 +9,5 @@ pages:
     url: "/strings"
   - title: "Formatting"
     url: "/formatting"
+  - title: "Boolean"
+    url: "/boolean"
