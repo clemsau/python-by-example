@@ -13,17 +13,6 @@ This project is built using the [hugo](https://gohugo.io/) static site generator
 ## TODO
 
 - [ ] Add more examples
-  - [ ] Hello world
-  - [ ] Values
-  - [ ] Numbers
-  - [ ] Strings
-  - [ ] Formatting
-  - [ ] Booleans
-  - [ ] Variables
-  - [ ] Constants
-  - [ ] Operators
-  - [ ] For
-  - [ ] While
   - [ ] If/Else
   - [ ] Switch
   - [ ] Lists
@@ -32,6 +21,8 @@ This project is built using the [hugo](https://gohugo.io/) static site generator
   - [ ] Classes
   - [ ] Modules
   - [ ] Try/Catch
+  - [ ] Enumerate
+  - [ ] Static typing
   - [ ] File I/O
   - [ ] Time
   - [ ] Regular expressions
