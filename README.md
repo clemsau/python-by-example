@@ -13,9 +13,6 @@ This project is built using the [hugo](https://gohugo.io/) static site generator
 ## TODO
 
 - [ ] Add more examples
-  - [ ] If/Else
-  - [ ] Switch
-  - [ ] Lists
   - [ ] Dictionaries
   - [ ] Functions
   - [ ] Classes
