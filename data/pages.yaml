@@ -25,3 +25,5 @@ pages:
     url: "/switch"
   - title: "List"
     url: "/list"
+  - title: "Dictionaries"
+    url: "/dictionaries"

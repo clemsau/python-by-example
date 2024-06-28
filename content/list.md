@@ -1,5 +1,5 @@
 +++
-title = "Lists"
+title = "List"
 +++
 
 ## Lists in Python
