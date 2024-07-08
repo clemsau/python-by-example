@@ -13,8 +13,6 @@ This project is built using the [hugo](https://gohugo.io/) static site generator
 ## TODO
 
 - [ ] Add more examples
-  - [ ] Functions
-  - [ ] Classes
   - [ ] Modules
   - [ ] Try/Catch
   - [ ] Enumerate

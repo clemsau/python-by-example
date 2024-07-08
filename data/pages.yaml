@@ -29,3 +29,5 @@ pages:
     url: "/dictionaries"
   - title: "Functions"
     url: "/functions"
+  - title: "Classes"
+    url: "/classes"
