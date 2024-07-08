@@ -27,3 +27,5 @@ pages:
     url: "/list"
   - title: "Dictionaries"
     url: "/dictionaries"
+  - title: "Functions"
+    url: "/functions"
