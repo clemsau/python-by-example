@@ -13,8 +13,6 @@ This project is built using the [hugo](https://gohugo.io/) static site generator
 ## TODO
 
 - [ ] Add more examples
-  - [ ] Modules
-  - [ ] Try/Catch
   - [ ] Enumerate
   - [ ] Static typing
   - [ ] File I/O
@@ -26,7 +24,6 @@ This project is built using the [hugo](https://gohugo.io/) static site generator
   - [ ] CSV
   - [ ] SQLite
   - [ ] Logging
-  - [ ] Testing
   - [ ] Debugging
   - [ ] Profiling
   - [ ] Performance

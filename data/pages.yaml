@@ -29,6 +29,8 @@ pages:
     url: "/dictionaries"
   - title: "Functions"
     url: "/functions"
+  - title: "Decorators"
+    url: "/decorators"
   - title: "Classes"
     url: "/classes"
   - title: "Modules and Packages"
