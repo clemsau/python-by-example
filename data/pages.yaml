@@ -33,3 +33,5 @@ pages:
     url: "/classes"
   - title: "Modules and Packages"
     url: "/modules-packages"
+  - title: "Errors"
+    url: "/errors"
