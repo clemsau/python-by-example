@@ -1,5 +1,5 @@
 +++
-title = "Error Handling"
+title = "Errors"
 +++
 
 ## Error Handling in Python
