@@ -33,6 +33,8 @@ pages:
     url: "/functions"
   - title: "Decorators"
     url: "/decorators"
+  - title: "Enums"
+    url: "/enums"
   - title: "Classes"
     url: "/classes"
   - title: "Modules and Packages"
