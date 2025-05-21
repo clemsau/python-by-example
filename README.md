@@ -17,7 +17,6 @@ This project is built using the [hugo](https://gohugo.io/) static site generator
   - [ ] Regular expressions
   - [ ] Web scraping
   - [ ] Web Requests
-  - [ ] JSON
   - [ ] CSV
   - [ ] SQLite
   - [ ] Logging

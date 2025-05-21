@@ -47,3 +47,5 @@ pages:
     url: "/time"
   - title: "Static Typing"
     url: "/static-typing"
+  - title: "JSON"
+    url: "/json"
