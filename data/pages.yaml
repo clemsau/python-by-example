@@ -49,3 +49,5 @@ pages:
     url: "/static-typing"
   - title: "JSON"
     url: "/json"
+  - title: "CSV"
+    url: "/csv"
