@@ -14,7 +14,6 @@ This project is built using the [hugo](https://gohugo.io/) static site generator
 
 - [ ] Add more examples
   - [ ] File I/O
-  - [ ] Time
   - [ ] Regular expressions
   - [ ] Web scraping
   - [ ] Web Requests

@@ -43,5 +43,7 @@ pages:
     url: "/errors"
   - title: "Testing"
     url: "/testing"
+  - title: "Time"
+    url: "/time"
   - title: "Static Typing"
     url: "/static-typing"
