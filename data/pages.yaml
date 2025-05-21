@@ -25,6 +25,8 @@ pages:
     url: "/switch"
   - title: "List"
     url: "/list"
+  - title: "Sets and Tuples"
+    url: "/sets-tuples"
   - title: "Dictionaries"
     url: "/dictionaries"
   - title: "Functions"
