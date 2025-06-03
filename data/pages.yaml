@@ -57,3 +57,5 @@ pages:
     url: "/args-kwargs"
   - title: "Random Numbers"
     url: "/random-numbers"
+  - title: "Logging"
+    url: "/logging"
